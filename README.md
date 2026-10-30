@@ -64,5 +64,134 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Healthchecks.io is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://healthchecks.io
+Healthchecks.io provides simple, effective cron job and background task monitoring. Users create unique ping URLs for each job, and Healthchecks.io tracks execution, sending alerts via email, Slack, webhooks, and many other integrations when jobs fail to run on schedule. The service offers a free tier for up to 20 checks, detailed dashboards, tagging, and configurable grace periods, supporting integrations with popular platforms like Prometheus, PagerDuty, and GitHub Actions.
+
+**Areas:** Monitoring · Cron · DevOps · Open Source · Software-as-a-Service
+
+## Healthchecks.io on APIs.io
+
+Everything profiled for Healthchecks.io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/healthchecks-io/](https://apis.io/providers/healthchecks-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [Management API](https://apis.io/apis/healthchecks-io/management-api/) — Programmatically manage checks and integrations via a RESTful API. Supports creating, updating, pausing, resuming, and deleting checks.
+- [Healthchecks.io 5Bf66975 D4C7 4Bf5 Bcc8 B8D8A82Ea278 API](https://apis.io/apis/healthchecks-io/healthchecks-io-5bf66975-d4c7-4bf5-bcc8-b8d8a82ea278-api/) — The 5Bf66975 D4C7 4Bf5 Bcc8 B8D8A82Ea278 API from Healthchecks.io — 3 operation(s) for 5bf66975 d4c7 4bf5 bcc8 b8d8a82ea278.
+- [Healthchecks.io Badges API](https://apis.io/apis/healthchecks-io/healthchecks-io-badges-api/) — The Badges API from Healthchecks.io — 1 operation(s) for badges.
+- [Healthchecks.io Channels API](https://apis.io/apis/healthchecks-io/healthchecks-io-channels-api/) — The Channels API from Healthchecks.io — 1 operation(s) for channels.
+- [Healthchecks.io Checks API](https://apis.io/apis/healthchecks-io/healthchecks-io-checks-api/) — The Checks API from Healthchecks.io — 10 operation(s) for checks.
+- [Healthchecks.io Fqood6 F4Mmnucenztu01W API](https://apis.io/apis/healthchecks-io/healthchecks-io-fqood6-f4mmnucenztu01w-api/) — The Fqood6 F4Mmnucenztu01W API from Healthchecks.io — 3 operation(s) for fqood6 f4mmnucenztu01w.
+- [Healthchecks.io Healthchecks.io API](https://apis.io/apis/healthchecks-io/healthchecks-io-healthchecks-io-api-api/) — The Healthchecks.io API API from Healthchecks.io — 1 operation(s) for healthchecks.io api.
+- [Healthchecks.io Status API](https://apis.io/apis/healthchecks-io/healthchecks-io-status-api/) — The Status API from Healthchecks.io — 1 operation(s) for status.
+- [Healthchecks.io Your Uuid Here API](https://apis.io/apis/healthchecks-io/healthchecks-io-your-uuid-here-api/) — The Your Uuid Here API from Healthchecks.io — 1 operation(s) for your uuid here.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [DeleteApiV3Checks7918B17BA7454Db185759D2E07C97F79Response](https://apis.io/schemas/healthchecks-io/healthchecks-io-delete-api-v3-checks7918-b17-ba7454-db185759-d2-e07-c97-f79-response/)
+- [GetApiV3ChecksUuidResponse](https://apis.io/schemas/healthchecks-io/healthchecks-io-get-api-v3-checks-uuid-response/)
+- [PostApiV3ChecksRequest2](https://apis.io/schemas/healthchecks-io/healthchecks-io-post-api-v3-checks-request2/)
+- [PostApiV3ChecksResponse](https://apis.io/schemas/healthchecks-io/healthchecks-io-post-api-v3-checks-response/)
+- [PostApiV3Checks7918B17BA7454Db185759D2E07C97F79Response](https://apis.io/schemas/healthchecks-io/healthchecks-io-post-api-v3-checks7918-b17-ba7454-db185759-d2-e07-c97-f79-response/)
+- [PostApiV3Checks7918B17BA7454Db185759D2E07C97F797918B17Ba7454](https://apis.io/schemas/healthchecks-io/healthchecks-io-post-api-v3-checks7918-b17-ba7454-db185759-d2-e07-c97-f797918-b17-ba7454/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Healthchecks Io Context](https://apis.io/jsonld/healthchecks-io/healthchecks-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Healthchecks.io API Rules](https://apis.io/rules/healthchecks-io/healthchecks-io-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Healthchecks Io Domain Security](https://apis.io/security/healthchecks-io/healthchecks-io-domain-security/)
+- [Healthchecks Io Vulnerability Disclosure](https://apis.io/security/healthchecks-io/healthchecks-io-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Healthchecks Io Plans Pricing](https://apis.io/plans/healthchecks-io/healthchecks-io-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://healthchecks.io)
+- [Documentation](https://healthchecks.io/docs/)
+- [Getting started](https://healthchecks.io/docs/monitoring_cron_jobs/)
+- [API reference](https://healthchecks.io/docs/api/)
+- [Pricing](https://healthchecks.io/pricing/)
+- [Support](https://healthchecks.io/about/)
+- [Blog](https://blog.healthchecks.io/)
+- [Security](https://healthchecks.io/faq/#bug-bounty)
+- [Terms of service](https://healthchecks.io/terms/)
+- [Privacy policy](https://healthchecks.io/privacy/)
+- [GitHub](https://github.com/healthchecks)
+- [Status](https://status.healthchecks.io/)
+
+## API Evangelist rating
+
+**Kin Score 43.5** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 71.4 |
+| Contract quality | 28.8 |
+| Contract governance | 22.0 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 65.8 |
+
+**Agent readiness 17.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/healthchecks-io/](https://apis.io/providers/healthchecks-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Healthchecks.io: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/healthchecks-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
